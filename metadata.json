@@ -1,0 +1,6 @@
+{
+  "name": "Game Start Screen & Controls",
+  "description": "Full screen game start menu featuring custom logo, keybinding options, touch controls setup, sound and graphics settings, and an interactive playable test game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
